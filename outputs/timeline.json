@@ -1,0 +1,234 @@
+[
+    {
+        "time_range": "0.0 \u2192 1.5",
+        "action": "Write(title)"
+    },
+    {
+        "time_range": "1.5 \u2192 3.0",
+        "action": "Create(triangle)"
+    },
+    {
+        "time_range": "3.0 \u2192 4.5",
+        "action": "Write(vertex_a)"
+    },
+    {
+        "time_range": "4.5 \u2192 6.0",
+        "action": "Write(vertex_b)"
+    },
+    {
+        "time_range": "6.0 \u2192 7.5",
+        "action": "Write(vertex_c)"
+    },
+    {
+        "time_range": "7.5 \u2192 9.0",
+        "action": "Write(explanation1)"
+    },
+    {
+        "time_range": "9.0 \u2192 10.5",
+        "action": "Create(side_ab)"
+    },
+    {
+        "time_range": "10.5 \u2192 12.0",
+        "action": "Write(side_label_ab)"
+    },
+    {
+        "time_range": "12.0 \u2192 13.5",
+        "action": "Create(side_bc)"
+    },
+    {
+        "time_range": "13.5 \u2192 15.0",
+        "action": "Write(side_label_bc)"
+    },
+    {
+        "time_range": "15.0 \u2192 16.5",
+        "action": "Create(side_ca)"
+    },
+    {
+        "time_range": "16.5 \u2192 18.0",
+        "action": "Write(side_label_ca)"
+    },
+    {
+        "time_range": "18.0 \u2192 19.5",
+        "action": "FadeOut(explanation1)"
+    },
+    {
+        "time_range": "19.5 \u2192 21.0",
+        "action": "Write(explanation2)"
+    },
+    {
+        "time_range": "21.0 \u2192 22.5",
+        "action": "Create(angle_a)"
+    },
+    {
+        "time_range": "22.5 \u2192 24.0",
+        "action": "Write(angle_label_a)"
+    },
+    {
+        "time_range": "24.0 \u2192 25.5",
+        "action": "Create(angle_b)"
+    },
+    {
+        "time_range": "25.5 \u2192 27.0",
+        "action": "Write(angle_label_b)"
+    },
+    {
+        "time_range": "27.0 \u2192 28.5",
+        "action": "Create(angle_c)"
+    },
+    {
+        "time_range": "28.5 \u2192 30.0",
+        "action": "Write(angle_label_c)"
+    },
+    {
+        "time_range": "30.0 \u2192 31.5",
+        "action": "FadeOut(explanation2)"
+    },
+    {
+        "time_range": "31.5 \u2192 33.0",
+        "action": "Write(angle_formula)"
+    },
+    {
+        "time_range": "33.0 \u2192 34.5",
+        "action": "FadeOut(angle_formula)"
+    },
+    {
+        "time_range": "34.5 \u2192 36.0",
+        "action": "Write(explanation3)"
+    },
+    {
+        "time_range": "36.0 \u2192 37.5",
+        "action": "Write(inequality)"
+    },
+    {
+        "time_range": "37.5 \u2192 39.0",
+        "action": "FadeOut(explanation3)"
+    },
+    {
+        "time_range": "39.0 \u2192 40.5",
+        "action": "FadeOut(inequality)"
+    },
+    {
+        "time_range": "40.5 \u2192 42.0",
+        "action": "Write(explanation4)"
+    },
+    {
+        "time_range": "42.0 \u2192 43.5",
+        "action": "Create(height_line)"
+    },
+    {
+        "time_range": "43.5 \u2192 45.0",
+        "action": "Create(height_brace)"
+    },
+    {
+        "time_range": "45.0 \u2192 46.5",
+        "action": "Write(height_label)"
+    },
+    {
+        "time_range": "46.5 \u2192 48.0",
+        "action": "Write(area_formula)"
+    },
+    {
+        "time_range": "48.0 \u2192 49.5",
+        "action": "FadeOut(explanation4)"
+    },
+    {
+        "time_range": "49.5 \u2192 51.0",
+        "action": "FadeOut(area_formula)"
+    },
+    {
+        "time_range": "51.0 \u2192 52.5",
+        "action": "Write(conclusion)"
+    },
+    {
+        "time_range": "52.5 \u2192 54.0",
+        "action": "Rotate(triangle)"
+    },
+    {
+        "time_range": "54.0 \u2192 55.5",
+        "action": "FadeOut(title)"
+    },
+    {
+        "time_range": "55.5 \u2192 57.0",
+        "action": "FadeOut(triangle)"
+    },
+    {
+        "time_range": "57.0 \u2192 58.5",
+        "action": "FadeOut(vertex_a)"
+    },
+    {
+        "time_range": "58.5 \u2192 60.0",
+        "action": "FadeOut(vertex_b)"
+    },
+    {
+        "time_range": "60.0 \u2192 61.5",
+        "action": "FadeOut(vertex_c)"
+    },
+    {
+        "time_range": "61.5 \u2192 63.0",
+        "action": "FadeOut(side_label_ab)"
+    },
+    {
+        "time_range": "63.0 \u2192 64.5",
+        "action": "FadeOut(side_label_bc)"
+    },
+    {
+        "time_range": "64.5 \u2192 66.0",
+        "action": "FadeOut(side_label_ca)"
+    },
+    {
+        "time_range": "66.0 \u2192 67.5",
+        "action": "FadeOut(angle_label_a)"
+    },
+    {
+        "time_range": "67.5 \u2192 69.0",
+        "action": "FadeOut(angle_label_b)"
+    },
+    {
+        "time_range": "69.0 \u2192 70.5",
+        "action": "FadeOut(angle_label_c)"
+    },
+    {
+        "time_range": "70.5 \u2192 72.0",
+        "action": "FadeOut(height_label)"
+    },
+    {
+        "time_range": "72.0 \u2192 73.5",
+        "action": "FadeOut(height_brace)"
+    },
+    {
+        "time_range": "73.5 \u2192 75.0",
+        "action": "FadeOut(base_line)"
+    },
+    {
+        "time_range": "75.0 \u2192 76.5",
+        "action": "FadeOut(height_line)"
+    },
+    {
+        "time_range": "76.5 \u2192 78.0",
+        "action": "FadeOut(conclusion)"
+    },
+    {
+        "time_range": "78.0 \u2192 79.5",
+        "action": "FadeOut(angle_a)"
+    },
+    {
+        "time_range": "79.5 \u2192 81.0",
+        "action": "FadeOut(angle_b)"
+    },
+    {
+        "time_range": "81.0 \u2192 82.5",
+        "action": "FadeOut(angle_c)"
+    },
+    {
+        "time_range": "82.5 \u2192 84.0",
+        "action": "FadeOut(side_ab)"
+    },
+    {
+        "time_range": "84.0 \u2192 85.5",
+        "action": "FadeOut(side_bc)"
+    },
+    {
+        "time_range": "85.5 \u2192 87.0",
+        "action": "FadeOut(side_ca)"
+    }
+]

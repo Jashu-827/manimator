@@ -1,0 +1,7 @@
+flask
+manim
+requests
+python-dotenv
+openai
+langchain-core
+graphviz
