@@ -68,6 +68,4 @@ Use the frontend to enter a short prompt (e.g., `show y = x^2 and explain vertex
 - You can replace the LLM client in `backend.py` (currently using `requests` to call OpenRouter) with your preferred integration.
 - Improve `scene_graph` extractors for more complete Manim command coverage.
 
-**License & Contributing**
-- This repository contains example code. Feel free to adapt it; add a license file if you plan to publish.
 
